@@ -77,7 +77,7 @@ Gosto de explorar novas tecnologias, desenvolver projetos e colocar meus conheci
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/julioborgesap">
+<a href="https://www.instagram.com/julioborges_a">
   <img src="https://img.shields.io/badge/Instagram-Perfil-333333?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
 </a>
 
