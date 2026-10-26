@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Ol%C3%A1,%20eu%20sou%20[SEU%20NOME]&fontSize=35&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20%7C%20Tecnologia%20%7C%20Aprendizado&descAlignY=58&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Ol%C3%A1,%20eu%20sou%20Júlio%20Borges&fontSize=35&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20%7C%20Tecnologia%20%7C%20Aprendizado&descAlignY=58&descSize=15" width="100%" />
 
 <br>
 
@@ -53,13 +53,13 @@ Gosto de explorar novas tecnologias, desenvolver projetos e colocar meus conheci
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=julioborgesap&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioborgesap&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=julioborgesap&theme=transparent&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
 
