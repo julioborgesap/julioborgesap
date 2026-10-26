@@ -73,11 +73,11 @@ Gosto de explorar novas tecnologias, desenvolver projetos e colocar meus conheci
   <img src="https://img.shields.io/badge/Email-Contato-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail" />
 </a>
 &nbsp;
-<a href="linkedin.com/in/julioborgesap">
+<a href="https://www.linkedin.com/in/julioborgesap">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="instagram.com/julioborgesap">
+<a href="https://www.instagram.com/julioborgesap">
   <img src="https://img.shields.io/badge/Instagram-Perfil-333333?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
 </a>
 
